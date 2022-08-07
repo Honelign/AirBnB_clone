@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Honelign Selamu <Honelignselamu@gmail.com>(https://github.com/Honelign)>
+* **Honelign Selamu <Honelignselamu@gmail.com>(https://github.com/Honelign
 
